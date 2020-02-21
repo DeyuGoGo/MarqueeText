@@ -4,7 +4,7 @@
 
 ### 效果图
 
-<img src="/marqueenDemo.gif" style="width: 30%;">
+<img src="/MarqueeView.gif" style="width: 30%;">
 
 #### Gradle:
 
