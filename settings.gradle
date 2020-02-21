@@ -1,0 +1,2 @@
+include ':app', ':marqueetext'
+rootProject.name='MarqueeText'

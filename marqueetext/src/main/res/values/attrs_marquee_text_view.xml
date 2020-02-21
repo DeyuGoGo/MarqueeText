@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="MarqueeTextView">
+        <attr name="Text" format="string" />
+        <attr name="TextSize" format="dimension"/>
+        <attr name="TextColor" format="color" />
+        <attr name="Speed" format="integer" />
+    </declare-styleable>
+</resources>
