@@ -8,7 +8,7 @@
 
 #### Gradle:
 
-    implementation 'com.deyu:marqueetext:1.0.0'
+    implementation 'go.deyu:marqueetext:1.0.0'
 
 #### 属性
 
