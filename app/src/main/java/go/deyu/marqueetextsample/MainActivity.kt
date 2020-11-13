@@ -1,10 +1,8 @@
 package go.deyu.marqueetextsample
 
-import UsedByReflection
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import go.deyu.marqueetext.MarqueeTextView
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -19,6 +17,5 @@ class MainActivity : AppCompatActivity() {
     }
     @UsedByReflection(value = "activity_main.xml")
     fun go (){
-
     }
 }
