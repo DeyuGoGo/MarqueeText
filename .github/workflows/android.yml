@@ -27,7 +27,7 @@ jobs:
         java-version: 1.8
     - name: run unit test
       run: ./gradlew test
-   androidtest:
+  androidtest:
     runs-on: macos-latest
     steps:
     - name: checkout
